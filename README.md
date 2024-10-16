@@ -9,16 +9,20 @@ If the URL does not works ,follow the below steps to run it locally ,
 Go to the termial and type the below command ,befoe that make sure your are in the folder which contains package json
 ### `npm install` 
 then run this beloww command to start the app.
+
 ### `npm start`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### one minor change needed is if API Fails
 1. Uncomment this import by presing ctrl + '/' on that line
-   ![image](https://github.com/user-attachments/assets/a566c4b8-f92e-46a0-a2f3-ccbbe4bcfbd9)
+   
+  ![image](https://github.com/user-attachments/assets/a566c4b8-f92e-46a0-a2f3-ccbbe4bcfbd9)
+  
 2.add './data.json' in the fetch insted of api endpoint:
   ![image](https://github.com/user-attachments/assets/72effbfe-88c7-40d8-a854-bdfa880acad0)
 
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
